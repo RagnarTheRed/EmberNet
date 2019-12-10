@@ -29,6 +29,9 @@ I have not provided the raw Ember data in this code base because it is quite lar
 pre-computed by PreprocessData.py and PreprocessPCA.py so that you can bypass this tedious step of downloading,
 converting, sampling and pre-processing the data.
 
+    !! IMPORTANT: The pre-processed data files are too large for GitHub and I will have to email !!
+    !! them to you if you wish to use them. Reach me at ryan.1369@osu.edu !!
+
 If you are planning on creating the data set from scratch, you will also need to download the Ember2018
 data set (available at https://github.com/endgameinc/ember) and add the folder labled "ember2018" to the data
 directory.
