@@ -1,7 +1,7 @@
 
 
-This code is part ofa semester project for CSE 4471 in the Fall semester of 2019.
-We are the Antivirus group, consisting of
+This code is part of a semester project for CSE 4471 in the Fall semester of 2019.
+We are the Antivirus group, consisting of Jack Ryan, Connor Hall, Cole Sharron, Zahra Naseer and Eric Bash
 
 @author Jack Ryan
 
@@ -15,7 +15,7 @@ either safe or potentially malicious.
 
 ** Dependencies **
 
-In order to use the EmberNet, you will python version >= 3.6 and will need to install a few libraries including:
+In order to use the EmberNet, you will need python version >= 3.6 and will need to install a few libraries including:
     - Ember (instructions for installation at https://github.com/endgameinc/ember)
     - PyTorch
     - LIEF (dependency of Ember)(Version 0.9.0 only!)
